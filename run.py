@@ -1,5 +1,5 @@
 #+++++# utf-8 #+++++#
-#+++++# code by Aditya Putra Mahesa #+++++#
+#+++++# code by Komtol Imnida #+++++#
 try:
 	import re
 	import os
